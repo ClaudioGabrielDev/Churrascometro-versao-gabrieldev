@@ -7,4 +7,4 @@
 
 */
 
-alert("Olá, Calcule aqui o seu churrasco futuramente!")
+//alert("Olá, Calcule aqui o seu churrasco futuramente!")
